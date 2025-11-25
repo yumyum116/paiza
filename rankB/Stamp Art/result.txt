@@ -1,3 +1,5 @@
+=== in case of 3 rows * 3 columns window ===
+
 ### submit.py ###
 
 real    0m0.046s
@@ -15,3 +17,24 @@ sys     0m0.005s
 real    0m0.028s
 user    0m0.013s
 sys     0m0.006s
+
+
+=== in case of 10000 rows * 10 columns window ===
+
+### submit.py ###
+
+real    0m0.102s
+user    0m0.090s
+sys     0m0.012s
+
+### fast_approach.py ###
+
+real    0m0.086s
+user    0m0.075s
+sys     0m0.011s
+
+### cache.py ###
+
+real    0m0.150s
+user    0m0.113s
+sys     0m0.011s

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INPUT=input.txt
+INPUT=input_large.txt
 
 echo "### submit.py ###"
 time python3 submit.py < $INPUT > /dev/null
