@@ -38,3 +38,8 @@ sys     0m0.011s
 real    0m0.150s
 user    0m0.113s
 sys     0m0.011s
+
+*** another result for 10000 rows * 10 columns ***
+submit.py: real = 0.112s, user = 0.100s, sys = 0.010s, max memory = 16000 KB
+fast_approach.py: real = 0.082s, user = 0.068s, sys = 0.007s, max memory = 12032 KB
+cache.py: real = 0.082s, user = 0.068s, sys = 0.008s, max memory = 12032 KB
