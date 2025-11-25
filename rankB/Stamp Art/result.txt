@@ -1,0 +1,17 @@
+### submit.py ###
+
+real    0m0.046s
+user    0m0.011s
+sys     0m0.008s
+
+### fast_approach.py ###
+
+real    0m0.020s
+user    0m0.014s
+sys     0m0.005s
+
+### cache.py ###
+
+real    0m0.028s
+user    0m0.013s
+sys     0m0.006s
