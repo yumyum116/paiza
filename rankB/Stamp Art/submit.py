@@ -1,4 +1,9 @@
-# 提出したコード
+"""
+# Approach
+  Build buffers for the stamps and the layout plan.
+  Using nested loops (brute-force), map each stamp into the result buffer and print it.
+"""
+
 rows, columns, number = map(int, input().split())
 stamp = []
 for _ in range(number):
