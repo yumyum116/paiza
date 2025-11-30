@@ -37,8 +37,3 @@ def merge_sort(array, left, right):
     merge_sort(array, left, mid)
     merge_sort(array, mid, right)
     merge(array, left, mid, right)
-    
-n = int(input())
-array = list(map(int, input().split()))
-print(*array)
-print(count)
