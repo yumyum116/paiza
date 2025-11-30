@@ -8,6 +8,8 @@
    Then recirsively apply the same process to each partition until the array becomes sorted.
 """
 
+count = 0
+
 def quick_sort(array, left, right):
     if left + 1 >= right:
         return 
