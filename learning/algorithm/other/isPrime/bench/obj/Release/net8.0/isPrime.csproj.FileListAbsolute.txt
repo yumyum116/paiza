@@ -1,0 +1,15 @@
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/bin/Release/net8.0/isPrime
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/bin/Release/net8.0/isPrime.deps.json
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/bin/Release/net8.0/isPrime.runtimeconfig.json
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/bin/Release/net8.0/isPrime.dll
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/bin/Release/net8.0/isPrime.pdb
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/obj/Release/net8.0/isPrime.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/obj/Release/net8.0/isPrime.AssemblyInfoInputs.cache
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/obj/Release/net8.0/isPrime.AssemblyInfo.cs
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/obj/Release/net8.0/isPrime.csproj.CoreCompileInputs.cache
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/obj/Release/net8.0/isPrime.sourcelink.json
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/obj/Release/net8.0/isPrime.dll
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/obj/Release/net8.0/refint/isPrime.dll
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/obj/Release/net8.0/isPrime.pdb
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/obj/Release/net8.0/isPrime.genruntimeconfig.cache
+/workspaces/paiza/learning/algorithm/other/isPrime/bench/obj/Release/net8.0/ref/isPrime.dll
