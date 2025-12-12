@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 MAX_A = 6000000
 
 def eratosthenes(n):
