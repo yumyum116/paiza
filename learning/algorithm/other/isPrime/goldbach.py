@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+@profile
 def goldbach_conjecture(n):
     is_prime = [True] * (n + 1)
     is_prime[0] = is_prime[1] = False
@@ -13,3 +14,11 @@ def goldbach_conjecture(n):
         q = n - p
         if is_prime[p] and is_prime[q]:
             return p, q
+
+n = 34240
+result = goldbach_conjecture(n)
+if result is not None:
+    p, q = result
+    print(p, q)
+else:
+    print("This number not prime.")
